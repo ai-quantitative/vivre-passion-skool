@@ -19,8 +19,8 @@ skin: "/assets/css/skins/default.css"
 locale: fr-FR
 title: "Vivre de sa Passion"
 description: "Vivre de sa Passion te montre comment vivre de ta passion sur Skool.com"
-baseurl: #/skool/# the subpath of your site, e.g. "/blog"
-url: "https://github.com/ai-quantitative/passion-skool" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
+url: "https://ai-quantitative.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%-d %B , %Y"
 read_time: # reading time estimates, e.g. true

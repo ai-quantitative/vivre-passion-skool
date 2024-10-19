@@ -21,7 +21,7 @@ Des milliers de personnes vivent de leur passion en créant et monétisant des c
 Voici une capture d'écran des meilleures performances de revenus récurrents mensuels (MRR) réalisées par les meilleurs pour le mois d'août seulement.
 
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/august-leaderboard-MRR.png' | relative_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/august-leaderboard-MRR.png' | absolute_url }}" alt=""></a>
   <figcaption>Certains ont des revenus mensuels qui donnent envie!</figcaption>
 </figure>
 
@@ -55,14 +55,14 @@ Tu as une passion? → D’autres la partagent sûrement !
 Voici les différentes catégories de thèmes possibles. Comme tu peux le voir, il y en a pour tous les goûts !
 
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/Skool-categories.png' | relative_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/Skool-categories.png' | absolute_url }}" alt=""></a>
   <figcaption>Il existe 21 catégories différentes, ici je montre 'Arts and Crafts'</figcaption>
 </figure>
 
 
 Ici, voici exemple de l’une des communauté francaise:  
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/Crossfit-Skool-example.png' | relative_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/Crossfit-Skool-example.png' | absolute_url }}" alt=""></a>
   <figcaption>"Le Club" (Crossfit) générant tout de même ~2.000 euros/mois !  (au moment de la capture d'écran)</figcaption>
 </figure>
 
