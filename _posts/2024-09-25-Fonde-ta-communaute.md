@@ -2,9 +2,9 @@
 title: "Fonde ta communauté"
 #author: "Guillaume"
 image: 
-  path: #/images/vivre-passion-skool-hero.png
-  thumbnail: #/images/skool-reve-hero.png
-  caption: #"Gros Revenus Mensuels Récurrents (MRR) sur Skool"
+  path: /images/vivre-passion-skool-hero.png
+  thumbnail: /images/skool-reve-hero.png
+  caption: "Gros Revenus Mensuels Récurrents (MRR) sur Skool"
 categories:
   - Skool
 tags:
