@@ -3,7 +3,7 @@ title: "Vivre de sa Passion grâce à Skool.com"
 #author: "Guillaume"
 image: 
   path: /images/vivre-passion-skool-hero.png
-  thumbnail: /images/skool-reve-hero.png
+  thumbnail: /images/Skool-reve-thumbnail-new.png
   caption: "Gros Revenus Mensuels Récurrents (MRR) sur Skool"
 categories:
   - Skool
