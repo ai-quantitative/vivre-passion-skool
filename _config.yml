@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
-locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale: fr-FR
+title: "Vivre de sa Passion"
+description: "Vivre de sa Passion te montre comment vivre de ta passion sur Skool.com"
+baseurl: #/skool/# the subpath of your site, e.g. "/blog"
+url: "https://github.com/ai-quantitative/passion-skool" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
+date_format: "%-d %B , %Y"
 read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
+words_per_minute: # 250
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
@@ -90,18 +90,43 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: 
+  name: Guillaume M.
   picture:
-  email:
+  email: 
   twitter:
   links:
     - title:
       url:
       icon:
 
+
 # Footer Links
 footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+# Site owner
+owner:
+  name: #Stan Development Team
+  avatar: #ulam-fermiac.pdf
+  email: #stan@mc-stan.org
+  disqus-shortname:
+  twitter: #mcmc_stan
+  facebook: #username
+  github: #stan-dev
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics: #UA-65151620-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

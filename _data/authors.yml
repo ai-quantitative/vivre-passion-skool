@@ -1,16 +1,12 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Guillaume:
+  name: Guillaume
+  picture: /images/guillaume-photo.jpg
+  avatar: /images/guillaume-photo.jpg
+  twitter: "https://www.linkedin.com/in/gmoog/"
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - title: LinkedIn
+      url: "https://www.linkedin.com/in/gmoog/"
+      #icon: fab fa-twitter-square

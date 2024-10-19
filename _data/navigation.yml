@@ -2,15 +2,15 @@
 
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
+- title: Posts
+  url: /posts/
+- title: Categories
+  url: /categories/
+#- title: Tags
+#  url: /tags/
 # - title: Recipes
 #   url: /recipes/
-# - title: Search
-#   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
+- title: Search
+  url: /search/
+- title: Commence ta SKOOL!
+  url: https://www.skool.com/games?ref=374ecc77932242068ec97eab0a0cc754
