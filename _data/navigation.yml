@@ -10,8 +10,8 @@
 #  url: /tags/
 # - title: Recipes
 #   url: /recipes/
-#- title: Search
-#  url: /search/
+- title: Search
+  url: /search/
 - title: Fonde ton entreprise!
   url: https://www.skool.com/signup?ref=374ecc77932242068ec97eab0a0cc754
 - title: Besoin d'aide?
