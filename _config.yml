@@ -18,13 +18,14 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: fr-FR
 title: "Vivre de sa Passion"
-description: "en vendant des cours ou des services sur Skool.com"
+description: "Vivre de sa Passion en vendant des cours ou des services sur Skool.com"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://ai-quantitative.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url: "https://ai-quantitative.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://vivredesapassion.org/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%-d %B , %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 250
+read_time: true # reading time estimates, e.g. true
+words_per_minute: 300 # 250
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
