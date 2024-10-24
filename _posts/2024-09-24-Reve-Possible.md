@@ -2,8 +2,8 @@
 title: "Vivre de sa Passion grâce à Skool.com"
 #author: "Guillaume"
 image: 
-  path: /images/vivre-passion-skool-hero.png
-  thumbnail: /images/Skool-reve-thumbnail-new.png
+  path: /images/a1-vivre-passion-skool-hero.png
+  thumbnail: /images/a1-Skool-reve-thumbnail-new.png
   caption: "Gros Revenus Mensuels Récurrents (MRR) sur Skool"
 categories:
   - Skool
@@ -16,12 +16,12 @@ last_modified_at: 2024-09-25T21:00:52-05:00
 ---
 Des milliers de personnes vivent de leur passion en créant et monétisant des communautés sur Skool. 
 
-# Vivre de sa passion en administrant une communauté
+# Vivre de sa passion
 
 Voici une capture d'écran des meilleures performances de revenus récurrents mensuels (MRR) réalisées par les meilleurs pour le mois d'août seulement.
 
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/august-leaderboard-MRR.png' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/a1-august-leaderboard-MRR.png' | absolute_url }}" alt=""></a>
   <figcaption>Certains ont des revenus mensuels qui donnent envie!</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Comme tu peux le voir, une multitude de personnes atteignent quelques centaines,
 **<span style="background-color: yellow">Meme si ca n’est que $151 euros/mois, tout est bon a prendre.</span>**
 **<span style="background-color: yellow">Mais il n’y a réellement pas de limite... donc peu à perdre et beaucoup à gagner !</span>**
 
-# Quoi faire pour vivre de sa passion?
+# Comment vivre de sa passion?
 
 Tu ne fais pas comme eux? Pas grave, il existe des communautés sur tout et n'importe quoi !  
 Dans les domaines tels que :  
@@ -55,18 +55,18 @@ Tu as une passion? → D’autres la partagent sûrement !
 Voici les différentes catégories de thèmes possibles. Comme tu peux le voir, il y en a pour tous les goûts !
 
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/Skool-categories.png' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/a1-Skool-categories.png' | absolute_url }}" alt=""></a>
   <figcaption>Il existe 21 catégories différentes, ici je montre 'Arts and Crafts'</figcaption>
 </figure>
 
 
 Ici, voici exemple de l’une des communauté francaise:  
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/Crossfit-Skool-example.png' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/a1-Crossfit-Skool-example.png' | absolute_url }}" alt=""></a>
   <figcaption>"Le Club" (Crossfit) générant tout de même ~2.000 euros/mois !  (au moment de la capture d'écran)</figcaption>
 </figure>
 
-# Saisir son Opportunité:
+# Saisir son Opportunité - Fonde ton entreprise en ligne:
 Le meilleur moment pour démarrer, c'était hier ; le second meilleur moment, c'est aujourd'hui. Chaque jour qui passe sans prendre d'action t'éloigne de tes objectifs.
 
 À cette heure, il n'y a encore **<mark>presque pas de communautés en français</mark>** ! 
