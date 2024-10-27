@@ -1,6 +1,6 @@
 ---
 title: "Fonde un business en ligne"
-#author: "Guillaume"
+author: "Guillaume"
 image: 
   path: /images/a3-fonde-hero.png
   thumbnail: /images/a3-fonde-thumbnail.jpg

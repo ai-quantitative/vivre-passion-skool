@@ -1,6 +1,6 @@
 ---
 title: "Vivre de sa Passion grâce à Skool.com"
-#author: "Guillaume"
+author: "Guillaume"
 image: 
   path: /images/a1-vivre-passion-skool-hero.png
   thumbnail: /images/a1-Skool-reve-thumbnail-new.png

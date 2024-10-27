@@ -2,11 +2,11 @@
 # Remove file or replace with your own
 
 Guillaume:
-  name: Guillaume
+  name: Guillaume M.
   picture: /images/guillaume-photo.jpg
   avatar: /images/guillaume-photo.jpg
-  twitter: "https://www.linkedin.com/in/gmoog/"
+  #twitter: "ur;"
   links:
-    - title: LinkedIn
-      url: "https://www.linkedin.com/in/gmoog/"
+    - title: Skool
+      #url: "https://www.skool.com/@guillaume-moog-4570/"
       #icon: fab fa-twitter-square

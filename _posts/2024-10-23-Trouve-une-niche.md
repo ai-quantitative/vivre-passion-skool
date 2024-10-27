@@ -1,6 +1,6 @@
 ---
 title: "Trouve une niche autour de ta passion"
-#author: "Guillaume"
+author: "Guillaume"
 image: 
   path: /images/a2-trouve-niche-hero.png
   thumbnail: /images/a2-trouve-niche-thumbnail.jpg
