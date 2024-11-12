@@ -16,6 +16,8 @@ last_modified_at: 2024-09-25T21:00:52-05:00
 ---
 Des milliers de personnes vivent de leur passion en créant et monétisant des communautés sur Skool. 
 
+{% include toc %}
+
 # Vivre de sa passion
 
 Voici une capture d'écran des meilleures performances de revenus récurrents mensuels (MRR) réalisées par les meilleurs pour le mois d'août seulement.

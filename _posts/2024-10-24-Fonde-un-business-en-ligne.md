@@ -14,8 +14,10 @@ tags:
   #- passion
 last_modified_at: 2024-10-24T21:00:52-05:00
 ---
-
 # Fonde une entreprise de services ou d'éducation en ligne en quelques minutes!
+
+{% include toc %}
+
 
 Je te propose de fonder ton entreprise de services/éducation pour les raisons suivantes :
 
