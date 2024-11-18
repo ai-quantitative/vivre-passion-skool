@@ -1,0 +1,29 @@
+<div class="calendar-container">
+    <!-- Google Calendar Appointment Scheduling begin -->
+    <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+    <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+    <script>
+    (function() {
+      var target = document.currentScript;
+      window.addEventListener('load', function() {
+        calendar.schedulingButton.load({
+          url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1QOVF4299QdOwbexshqygaF8Sc4jIrl-c_VHEzL606gP-e2Y8C4LAk-cOrhLPeiPbunTqoJcbW?gv=true',
+          color: '#D50000',
+          label: "Besoin d'aide? \n Reserve un appel Gratuit de 15 min",
+          target,
+        });
+      });
+    })();
+    </script>
+    <!-- end Google Calendar Appointment Scheduling -->
+</div>
+<style>
+/* Center the button on the page */
+.calendar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1vh; /* Full viewport height */
+  text-align: center;
+}
+</style>

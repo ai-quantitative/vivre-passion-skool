@@ -72,11 +72,12 @@ N'attends pas pour réaliser tes rêves, agis dès maintenant et fonde ta commun
 
 ><div style="text-align: center;">
 >  <a href="https://www.skool.com/games?ref=374ecc77932242068ec97eab0a0cc754" style="font-size: 32px;">Clique ici pour démarrer avec Skool</a> 
->  <br><br>
->  Besoin d’aide ?
 >  <br>
->  <a href="[lien vers appel](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1QOVF4299QdOwbexshqygaF8Sc4jIrl-c_VHEzL606gP-e2Y8C4LAk-cOrhLPeiPbunTqoJcbW)"><span style="background-color: yellow">[Reserve un appel Gratuit de 15 min]!</span></a>
-></div>
+
+{% include book-15min-call.html %}
+
+<br>
+
 
 ## Étape 1. Concentre-toi sur la 'About' Page
 
@@ -114,3 +115,6 @@ Mais, cela fera l'affaire d'autres publications.
 <br>
 
 > "Rome ne s'est pas faite en un jour"
+<br>
+
+{% include book-15min-call.html %}
