@@ -72,7 +72,7 @@ N'attends pas pour réaliser tes rêves, agis dès maintenant et fonde ta commun
 
 ><div style="text-align: center;">
 >  <a href="https://www.skool.com/games?ref=374ecc77932242068ec97eab0a0cc754" style="font-size: 32px;">Clique ici pour démarrer avec Skool</a> 
->  <br>
+<br>
 
 {% include book-15min-call.html %}
 
@@ -115,6 +115,6 @@ Mais, cela fera l'affaire d'autres publications.
 <br>
 
 > "Rome ne s'est pas faite en un jour"
-<br>
+<br><br>
 
 {% include book-15min-call.html %}
