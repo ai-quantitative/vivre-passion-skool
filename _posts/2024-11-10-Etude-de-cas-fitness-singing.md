@@ -41,7 +41,7 @@ Bien que la communauté soit actuellement axée sur un accès libre pour favoris
 * Accès exclusif à des experts de renommée.
 * Ressources pédagogiques avancées et projets collaboratifs.
 
-Grâce à une base de membres engagée et grandissante, Pocket Singers Elite a tout le potentiel pour devenir une référence dans le domaine de l’enseignement vocal.
+Grâce à une base de membres engagée et grandissante, Pocket Singers Elite a tout le potentiel pour sa croissance dans le domaine de l’enseignement vocal grâce à une base déjà solide de ~29 403 $/mois de revenus récurrents mensuels (MRR). 
 
 # Stratégies de réussite
 

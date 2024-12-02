@@ -35,7 +35,7 @@ Ces offres transforment chaque session d'entraînement en une aventure immersive
 
 # Monétisation et succès
 
-Anime Shreds illustre la force de la niche et de la passion avec **<span style="background-color: yellow">plus de $165 000/mois de revenus</span>** . Bien qu'Animesh n'ait pas spécifiquement mentionné un modèle d'abonnement payant, la communauté peut être monétisée de différentes manières :
+Anime Shreds illustre la force de la niche et de la passion avec **<span style="background-color: yellow">plus de $165 000/mois de revenus récurrents mensuels (MRR)</span>** . Bien qu'Animesh n'ait pas spécifiquement mentionné un modèle d'abonnement payant, la communauté peut être monétisée de différentes manières :
 
 - **Abonnements premium pour des contenus exclusifs.**
 - **Vente de produits dérivés combinant fitness et anime.**

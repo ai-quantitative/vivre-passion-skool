@@ -41,7 +41,7 @@ SKOOL
 
 # Monétisation et succès
 
-Avec 214 membres actifs, le Mobility Club génère environ <span style="background-color: yellow">5 350 € de revenus mensuels</span>. Cette réussite démontre l'efficacité de la monétisation d'une communauté en ligne via un abonnement mensuel, en offrant une valeur perçue significative par rapport au coût de l'abonnement fixé à 25 €/mois.
+Avec 214 membres actifs, le Mobility Club génère environ <span style="background-color: yellow">5 350 € de revenus mensuels (MRR)</span>. Cette réussite démontre l'efficacité de la monétisation d'une communauté en ligne via un abonnement mensuel, en offrant une valeur perçue significative par rapport au coût de l'abonnement fixé à 25 €/mois.
 
 Damien Ospital, le créateur de la communauté, est également en mesure d' <span style="background-color: yellow">augmenter son chiffre d'affaires (et le nombre de clients) sans limite</span> pour seulement **99 $/mois**
 
