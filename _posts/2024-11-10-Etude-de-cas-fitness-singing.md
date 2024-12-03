@@ -15,7 +15,9 @@ tags:
   #- passion
 last_modified_at: 2024-10-24T21:00:52-05:00
 ---
-La communauté **Pocket Singers Elite**, animée par un passionné de musique et de pédagogie vocale, est un espace dédié aux chanteurs souhaitant perfectionner leur art. Grâce à Skool, cette communauté exclusive réunit des passionnés et professionnels qui partagent leur amour du chant et cherchent à repousser leurs limites artistiques.
+La communauté **Pocket Singers Elite**, animée par un passionné de musique et de pédagogie vocale, est un espace dédié aux chanteurs souhaitant perfectionner leur art. 
+
+Grâce à Skool, cette communauté exclusive réunit des passionnés et professionnels qui partagent leur amour du chant et cherchent à repousser leurs limites artistiques.
 
 <figure class="align-center">
   <a href="#"><img src="{{ '/images/pocketsingers-about.webp' | absolute_url }}" alt=""></a>
@@ -33,7 +35,7 @@ Pocket Singers Elite offre un ensemble complet de ressources et d'activités pou
 
 Pocket Singers Elite est une communauté d’apprentissage avant tout, mais elle prépare une offre premium pour approfondir les opportunités de coaching individuel et les formations spécialisées.
 
-# Monétisation et succès
+# Comment bien vivre de cours de chant
 
 Bien que la communauté soit actuellement axée sur un accès libre pour favoriser les échanges et l'inspiration, une stratégie de monétisation est en cours. Une offre premium pourrait inclure :
 
@@ -43,7 +45,7 @@ Bien que la communauté soit actuellement axée sur un accès libre pour favoris
 
 Grâce à une base de membres engagée et grandissante, Pocket Singers Elite a tout le potentiel pour sa croissance dans le domaine de l’enseignement vocal grâce à une base déjà solide de ~29 403 $/mois de revenus récurrents mensuels (MRR). 
 
-# Stratégies de réussite
+# Stratégies pour vivre de chant
 
 Le succès de Pocket Singers Elite repose sur plusieurs piliers :
 

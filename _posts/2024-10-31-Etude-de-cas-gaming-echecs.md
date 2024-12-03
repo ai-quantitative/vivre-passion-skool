@@ -15,13 +15,12 @@ tags:
   #- passion
 last_modified_at: 2024-10-24T21:00:52-05:00
 ---
+La communauté **Le Club Blitzstream** rassemble plus de 6 000 passionnés d'échecs autour d'une plateforme vibrante sur les échecs.
 
-La communauté **Le Club Blitzstream**, dirigée par Kevin Bordi et coanimée avec le grand maître international Fabien Libiszewski, rassemble plus de 6 000 passionnés d'échecs autour d'une plateforme vibrante. 
-
-Avec une approche gratuite, l'objectif principal de Blitzstream est de créer un espace d'échange positif et d'apprentissage, tout en préparant le terrain pour une future offre premium.
+La communauté est dirigée par Kevin Bordi et coanimée avec le grand maître international Fabien Libiszewski. Avec une approche gratuite, l'objectif principal de Blitzstream est de créer un espace d'échange positif et d'apprentissage, tout en préparant le terrain pour une future offre premium.
 
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/blitzstream-classroom.webp' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/blitzstream-classroom.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Communauté Blitzstream - 'About' page</figcaption>
 </figure>
 
@@ -38,11 +37,11 @@ Le duo d’animateurs, composé de Kevin et du grand maître Fabien, enrichit la
 
 La communauté, gratuite pour le moment, vise avant tout à fédérer les passionnés tout en développant un écosystème qui valorise l'apprentissage et l'interaction.
 
-# Monétisation et succès
+# Monétisation de coaching en échecs
 
 Bien que Blitzstream soit actuellement gratuit, une offre premium est en cours de conception. Cette future proposition pourrait inclure des formations approfondies, des cours personnalisés, ou un accès privilégié à des contenus exclusifs. En s'appuyant sur leur large audience de plus de 6 000 membres, cette initiative est une opportunité prometteuse pour monétiser tout en apportant une valeur ajoutée significative.
 
-# Stratégies de réussite
+# Stratégies de réussite pour vivre de coaching en échecs
 
 Blitzstream a su créer un environnement captivant en s'appuyant sur plusieurs facteurs clés :
 
