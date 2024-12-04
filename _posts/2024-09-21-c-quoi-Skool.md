@@ -73,54 +73,65 @@ Skool s’adresse à une variété de profils, notamment :
 {% assign post_url = '/skool/Reve-Possible/' %}
 {% include link-to-post.html %}
 
-### 4. Comment démarrer sur Skool ?
+### 4. Comment démarrer sur Skool ? 
 Si vous êtes prêt à transformer votre passion en source de revenus, voici comment vous lancer :
 
-* Étape 1 : Inscrivez-vous sur Skool
-La première étape est simple : créez un compte en suivant mon lien affilié pour bénéficier d’un accompagnement personnalisé et accéder à mes conseils exclusifs. Pour des instructions détaillées sur le processus d’inscription et les avantages offerts, lisez cet article : Comment s’inscrire sur Skool et démarrer du bon pied.
 
-* Étape 2 : Identifiez vos clients et votre marché (niche)
+### [ ] - Étape 1 : Identifiez vos clients et votre marché (niche) 🎯
+
+La première étape est simple : identifiez vos clients et votre niche centrée autour de votre passion.
 {% assign post_url = '/skool/Trouve-une-niche/' %}
-{% include link-to-post.html %}
+{% include link-to-post.html %} 
 
-* Étape 3 : Configurez votre communauté - entreprise
-Une fois inscrit, il est temps de configurer votre espace. Définissez vos objectifs, personnalisez votre communauté et invitez vos premiers membres. Découvrez des astuces pas-à-pas dans cet article : Créer et personnaliser votre communauté sur Skool.
+###   [ ] - Étape 2 : Inscrivez-vous sur Skool ✅
+
+Fondez votre business en vous inscrivant sur Skool.
 {% assign post_url = '/skool/Fonde-un-business-en-ligne/' %}
 {% include link-to-post.html %}
 
-* Étape 4 : Monétisez votre savoir-faire
-Skool simplifie la vente de formations, d’abonnements et de contenus exclusifs. Apprenez à maximiser vos revenus avec mon guide : Comment monétiser efficacement votre communauté sur Skool. (Article a venir)
+###   [ ] - Étape 3 : Configurez votre communauté - entreprise 🔨
+  
+Une fois inscrit, il est temps de configurer votre espace. Définissez vos objectifs, personnalisez votre communauté et invitez vos premiers membres. Découvrez des astuces pas-à-pas dans cet article : Créer et personnaliser votre communauté sur Skool. (Article à venir)
+
+###   [ ] - Étape 4 : Monétisez votre savoir-faire 🔥
+
+Skool simplifie la vente de formations, d’abonnements et de contenus exclusifs. Apprenez à maximiser vos revenus avec mon guide : Comment monétiser efficacement votre communauté sur Skool. (Article à venir)
 
 
 ### 6. Témoignages de succès avec Skool
 De nombreux créateurs utilisent Skool pour transformer leurs idées en entreprises prospères. 
-{% assign post_url = '/skool/Reve-Possible/' %}
+{% assign post_url = '/success%20stories/Etude-de-cas-fitness-anime/' %}
 {% include link-to-post.html %}
 
+{% assign post_url = '/categories/' %}
+{% include link-to-post.html %}
+<div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
+<h2>💡 La section "Success Stories"</h2>
+</div>
 
-[//]: # "TODO: Par exemple :Jean Dupont, coach en développement personnel, a multiplié ses revenus par 3 grâce à sa communauté sur Skool.Marie Curie, passionnée de cuisine, a lancé un club de recettes en ligne avec des centaines de membres actifs."
+<br>
+
+
+[//]: # "TODO: Par exemple :Jean Dupont, coach en développement personnel, a multiplié ses revenus par 3 grâce à sa communauté sur Skool.Marie Curie, passionnée de cuisine, a lancé un club de recettes en ligne avec des centaines de membres actifs"
 
 
 ### 7. Skool, une opportunité pour vivre de votre passion
 Skool est bien plus qu’une simple plateforme : c’est un outil puissant pour transformer vos connaissances et votre passion en revenus durables. Que vous soyez formateur, entrepreneur ou simplement passionné, cette plateforme vous offre tout ce dont vous avez besoin pour réussir.
 
-{% assign post_url = '/skool/Fonde-un-business-en-ligne/' %}
-{% include link-to-post.html %}
 
 
 <div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
 <h2>💡  Skool FAQ:</h2>
-
-<h4>1. Skool est-il facile à utiliser ?</h4>
+<h3>1. Skool est-il facile à utiliser ?</h3>
 Oui, la plateforme est conçue pour être intuitive et accessible, même pour les débutants.<br><br>
 
-<h4>2. Quels sont les coûts associés ?</h4>
+<h3>2. Quels sont les coûts associés ?</h3>
 Skool propose un abonnement mensuel compétitif ($99/mois), mais les fonctionnalités offertes en valent largement le prix.<br><br>
 
-<h4>3. Puis-je utiliser Skool pour n’importe quelle niche ?</h4>
+<h3>3. Puis-je utiliser Skool pour n’importe quelle niche ?</h3>
 Absolument. Que vous soyez coach, formateur ou créateur de contenu, Skool s’adapte à vos besoins.<br><br>
 
-<h4>4. Qui peut utiliser Skool ?</h4>
+<h3>4. Qui peut utiliser Skool ?</h3>
 <ul>
   <li>Les coachs et formateurs en ligne</li>
   <li>Les entrepreneurs (services, formations)</li>
